@@ -25,7 +25,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I solve problems on GeeksforGeeks,read tech articles and do some gaming.
--:🥅Main Goal: Network, Learn and Contribute more to Open Source projects
+- :🥅Main Goal: Network, Learn and Contribute more to Open Source projects
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-iVGeek-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 
