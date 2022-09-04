@@ -12,6 +12,9 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<h1>
+  <iframe src="https://giphy.com/embed/j0Syc3g9rHF0zVIemW" width="480" height="312" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Kofi-button-j0Syc3g9rHF0zVIemW">via GIPHY</a></p>
+</h1>
 <img src="https://komarev.com/ghpvc/?username=iVGeek&style=flat-square&color=blue" alt=""/>
 <h1>
                                   hey there 
