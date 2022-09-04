@@ -21,7 +21,7 @@
   <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="300" height="150"/>
 </div>
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="30"> from Earth, the Planet.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Earth, the Planet.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I solve problems on GeeksforGeeks,read tech articles and do some gaming.
