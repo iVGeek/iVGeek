@@ -13,7 +13,6 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=iVGeek&style=flat-square&color=blue" alt=""/>
-<img src="https://camo.githubusercontent.com/3ba8042b343d12b84b85d2e6563376af4150f9cd09e72428349c1656083c8b5a/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f64656661756c742d6f72616e67652e706e67/>
 <h1>
                                   hey there 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
