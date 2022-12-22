@@ -50,10 +50,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 ---
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iVGeek&theme=chartreuse-dark&hide_border=true&border_radius=5&border=2C7A4E&fire=38DDB76F)
 [![GitHub Streak](https://git.io/streak-stats)<img src="https://github-readme-stats.vercel.app/api?username=iVGeek&theme=chartreuse-dark&show_icons=true"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iVGeek&layout=compact&theme=chartreuse-dark)](https://github.com/iVGeek/github-readme-stats)
+![Snake animation](https://github.com/iVGeek/github-contribution-grid-snake.svg)
 ---
