@@ -54,6 +54,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 ### :fire: My Stats :
 [![trophy](https://github-profile-trophy.vercel.app/?username=iVGeek&theme=chartreuse-dark)](https://github.com/iVGeek/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=iVGeek&theme=matrix
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iVGeek&theme=chartreuse-dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iVGeek&layout=compact&theme=chartreuse-dark)](https://github.com/iVGeek/github-readme-stats)
 
