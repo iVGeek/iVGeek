@@ -71,7 +71,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iVGeek&langs_count=50theme=chartreuse-dark)](https://github.com/iVGeek/github-readme-stats&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iVGeek&langs count=50&layout=compact&theme=chartreuse-dark)](https://github.com/iVGeek/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iVGeek&langs_count=50&layout=compact&theme=chartreuse-dark)](https://github.com/iVGeek/github-readme-stats)
 
 
 
