@@ -68,7 +68,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![trophy](https://github-profile-trophy.vercel.app/?username=iVGeek&theme=matrix)](https://github.com/iVGeek/github-profile-trophy=2)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iVGeek&theme=chartreuse-dark&border_radius=2)](https://git.io/streak-stats)
 [![iGeek's GitHub stats](https://readmestats.999857.xyz/api?username=iVGeek&show_icons=true&theme=chartreuse-dark&border_radius=2)
-[![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=iVGeek&langs_count=20&layout=compact&theme=chartreuse-dark&border_radius=2.9)](https://github.com/iVGeek/github-readme-stats)
+[![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=iVGeek&langs_count=30&layout=compact&theme=chartreuse-dark&border_radius=2.9)](https://github.com/iVGeek/github-readme-stats)
 
 
 
