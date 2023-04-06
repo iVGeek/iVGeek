@@ -6,4 +6,4 @@ with:
   base: ""
   plugin_wakatime: yes
   plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-  plugin_wakatime_token: $ waka_1768f7d0-e127-4ed6-a2aa-3e22f1c0d88c
+  plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
