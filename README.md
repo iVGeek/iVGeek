@@ -70,4 +70,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iVGeek&theme=chartreuse-dark&border_radius=2)](https://git.io/streak-stats)
 [![iGeek's GitHub stats](https://readmestats.999857.xyz/api?username=iVGeek&show_icons=true&theme=chartreuse-dark&border_radius=2)
 [![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=iVGeek&langs_count=30&layout=compact&theme=chartreuse-dark&border_radius=2.9)](https://github.com/iVGeek/github-readme-stats)
+![iGeek's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=iVGeek&api_domain=wakapi.dev&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
 <!-- BLOG-POST-LIST:END --
