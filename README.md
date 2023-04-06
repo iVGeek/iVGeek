@@ -1,3 +1,4 @@
+# Blog posts
 <!-- BLOG-POST-LIST:START -->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="110"/>
@@ -71,6 +72,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![iGeek's GitHub stats](https://readmestats.999857.xyz/api?username=iVGeek&show_icons=true&theme=chartreuse-dark&border_radius=2)
 [![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=iVGeek&langs_count=30&layout=compact&theme=chartreuse-dark&border_radius=2.9)](https://github.com/iVGeek/github-readme-stats)
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iVGeek&langs_count=20&layout=compact&theme=chartreuse-dark&border)](https://github.com/iVGeek/github-readme-stats)
-# Blog posts
-
 <!-- BLOG-POST-LIST:END --
