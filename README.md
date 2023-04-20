@@ -23,6 +23,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="300" height="150"/>
 </div>
+[![Github](https://img.shields.io/github/followers/iVGeek?label=Follow&style=social)](https://github.com/iVGeek)
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Earth, the Planet.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
@@ -72,7 +73,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iVGeek&theme=chartreuse-dark&border_radius=2)](https://git.io/streak-stats)
 [![iGeek's GitHub stats](https://readmestats.999857.xyz/api?username=iVGeek&show_icons=true&theme=chartreuse-dark&border_radius=2)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iVGeek&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=2&langs_count=30)](https://github.com/iVGeek/github-readme-stats)
-[![Github](https://img.shields.io/github/followers/iVGeek?label=Follow&style=social)](https://github.com/iVGeek)
 <!-- BLOG-POST-LIST:END --
 
 <!--END_SECTION:waka-->
