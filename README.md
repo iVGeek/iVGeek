@@ -75,7 +75,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iVGeek&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=2&langs_count=100)](https://github.com/iVGeek/github-readme-stats)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=iVGeek)](https://github.com/iVGeek/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=iVGeek&theme=chartreuse-dark&layout=compact&border_radius=2)](https://github.com/iVGeek/leetcode-stats)
 
 
 
