@@ -66,7 +66,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 ---
-<a>
 ### :fire: My Stats :
 [![trophy](https://github-profile-trophy.vercel.app/?username=iVGeek&theme=matrix)](https://github.com/iVGeek/github-profile-trophy=200)
 
@@ -78,13 +77,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=iVGeek&theme=chartreuse-dark&layout=compact&border_radius=2)](https://github.com/iVGeek/leetcode-stats)
 [![RANKS](https://github-profile-trophy.vercel.app/?username=iVGeek&rank=S)
-
-</a>
-
-<a href="https://github.com/iVGeek/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iVGeek&repo=iVGeek" />
-</a>
-<a href="https://github.com/iVGeek/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iVGeek&repo=iVGeek" />
-</a>
-
