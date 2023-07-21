@@ -74,7 +74,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![iGeek's GitHub stats](https://readmestats.999857.xyz/api?username=iVGeek&show_icons=true&theme=chartreuse-dark&border_radius=2)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iVGeek&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=5&langs_count=100)](https://github.com/iVGeek/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iVGeek&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=5&langs_count=100&size_weight=0.5&count_weight=0.5)
 
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=iVGeek&theme=chartreuse-dark&layout=compact&border_radius=2)](https://github.com/iVGeek/leetcode-stats)
@@ -84,4 +84,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ![Snake animation](https://github.com/iVGeek/iVGeek/blob/output/github-contribution-grid-snake.svg)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iVGeek&size_weight=0.5&count_weight=0.5)
+
