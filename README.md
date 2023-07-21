@@ -82,3 +82,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 ![Snake animation](https://github.com/iVGeek/iVGeek/blob/output/github-contribution-grid-snake.svg)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iVGeek&size_weight=0.5&count_weight=0.5)
