@@ -42,7 +42,7 @@
 - Cloud Wizardry: AWS, Azure
 
 🪄 Behold some of my recent enchantments:
-- [Project 1: The Web Elixir](link-to-project1)
+- [Project 1: Guess_The_Number_Game](link-to-project1)
 - [Project 2: The Data Sorcerer](link-to-project2)
 
 🌄 Let's conjure brilliance together and illuminate the digital cosmos with our combined powers!
