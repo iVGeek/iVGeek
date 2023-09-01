@@ -43,7 +43,7 @@
 
 🪄 Behold some of my recent enchantments:
 - [Project 1: Guess_The_Number_Game](link-to-project1)
-- [Project 2: The Data Sorcerer](link-to-project2)
+- [Project 2: WiFiAnalyzer](https://github.com/iVGeek/WiFiAnalyzer)
 
 🌄 Let's conjure brilliance together and illuminate the digital cosmos with our combined powers!
 
