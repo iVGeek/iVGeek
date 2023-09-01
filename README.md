@@ -15,7 +15,6 @@
 <img src="https://komarev.com/ghpvc/?username=iVGeek&style=flat-square&color=blue" alt=""/>
 
 <h1>
-  ---
                                    Hey there 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
@@ -34,6 +33,7 @@
 🥅 My grand quest? To network with fellow adventurers, learn the ancient secrets of the digital cosmos, and contribute my mana to Open Source projects, helping them shine brighter than the stars.
 
 🌌 Join me on this cosmic journey! Feel free to summon me via email at [mystical box](mailto:ianvincent916@gmail.com) or channel your magic through [LinkedIn](https://www.linkedin.com/in/ian-vincent-a7600a181/).
+---
 ---
 🌟 My spellbook of skills:
 - Frontend Spells: HTML, CSS, JavaScript, React
