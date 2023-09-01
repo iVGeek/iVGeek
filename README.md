@@ -26,7 +26,7 @@
 
 🔭 By day, I wield my coding wand as a Software Engineer, conjuring both frontend and backend magic to craft enchanting web applications that captivate users.
 
-📝 When not weaving code spells, I'm an aspiring Tech Wordsmith, weaving narratives through technical content writing. Explore my tales of technology on [your blog/website link here].
+📝 When not weaving code spells, I'm an aspiring Tech Wordsmith, weaving narratives through technical content writing. Explore my tales of technology on [Hashnode](https://ivgeek.hashnode.dev/).
 
 ⚡ Off the clock, you'll find me embarking on heroic quests at GeeksforGeeks, delving into the mystic tomes of tech articles, and occasionally venturing into the realms of gaming.
 
