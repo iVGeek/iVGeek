@@ -45,6 +45,10 @@
 - Database Potions: MongoDB, PostgreSQL, MySQL
 - Tools of the Trade: Git, VS Code, Docker
 - Cloud Wizardry: AWS, Azure
+  <div id="header" align="right">
+  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif" width="110"/>
+</div>
+
 ---
 🪄 Behold some of my recent enchantments:
 - [Project 1: Guess_The_Number_Game](https://github.com/iVGeek/Guess_The_Number_Game)
