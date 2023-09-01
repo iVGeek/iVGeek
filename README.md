@@ -34,7 +34,6 @@
 
 🌌 Join me on this cosmic journey! Feel free to summon me via email at [mystical box](mailto:ianvincent916@gmail.com) or channel your magic through [LinkedIn](https://www.linkedin.com/in/ian-vincent-a7600a181/).
 ---
----
 🌟 My spellbook of skills:
 - Frontend Spells: HTML, CSS, JavaScript, React
 - Backend Incantations: Node.js, Express, Python, Django
