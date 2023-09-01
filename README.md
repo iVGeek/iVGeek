@@ -29,6 +29,30 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time, I solve problems on GeeksforGeeks, read tech articles, and do some gaming.
 -:🥅Main Goal: Network, Learn and Contribute more to Open Source projects
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-iVGeek-blue?style=flat&logo=Linkedin&logoColor=white)](your-LinkedIn-URL)
+👋 Hi there! I'm a Full Stack Developer from Earth, the Planet. 
+
+🔭 Currently, I'm working as a Software Engineer, where I contribute to both frontend and backend development, crafting web applications that solve real-world problems.
+
+🌱 I'm also passionate about technical content writing, and you can find my articles on [your blog/website link here]. 
+
+⚡ In my free time, I enjoy tackling challenging problems on platforms like GeeksforGeeks, keeping up with the latest tech trends through articles, and indulging in some gaming sessions.
+
+🌟 My main goal is to expand my network, continuously learn, and contribute more to open-source projects to make the tech world even better.
+
+🚀 Let's connect and collaborate! Feel free to reach out to me via email at [your@email.com] or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+
+📚 Some of the technologies I'm proficient in:
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js, Express, Python, Django
+- Databases: MongoDB, PostgreSQL, MySQL
+- Tools: Git, VS Code, Docker
+- Cloud: AWS, Azure
+
+🌐 Check out some of my recent projects:
+- [Project 1](link-to-project1)
+- [Project 2](link-to-project2)
+
+🙌 Let's collaborate and make the digital world a better place together!
 
 ---
 
