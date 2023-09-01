@@ -21,6 +21,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="300" height="150"/>
 </div>
+
 ---
 🚀 Hello, fellow Earthlings! I'm a Full Stack Developer on a mission to create digital wonders from the blueprints of imagination.
 
