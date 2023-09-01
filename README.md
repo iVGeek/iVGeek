@@ -21,7 +21,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="300" height="150"/>
 </div>
-
+---
 🚀 Hello, fellow Earthlings! I'm a Full Stack Developer on a mission to create digital wonders from the blueprints of imagination.
 
 🔭 By day, I wield my coding wand as a Software Engineer, conjuring both frontend and backend magic to craft enchanting web applications that captivate users.
@@ -33,14 +33,14 @@
 🥅 My grand quest? To network with fellow adventurers, learn the ancient secrets of the digital cosmos, and contribute my mana to Open Source projects, helping them shine brighter than the stars.
 
 🌌 Join me on this cosmic journey! Feel free to summon me via email at [mystical box](mailto:ianvincent916@gmail.com) or channel your magic through [LinkedIn](https://www.linkedin.com/in/ian-vincent-a7600a181/).
-
+---
 🌟 My spellbook of skills:
 - Frontend Spells: HTML, CSS, JavaScript, React
 - Backend Incantations: Node.js, Express, Python, Django
 - Database Potions: MongoDB, PostgreSQL, MySQL
 - Tools of the Trade: Git, VS Code, Docker
 - Cloud Wizardry: AWS, Azure
-
+---
 🪄 Behold some of my recent enchantments:
 - [Project 1: Guess_The_Number_Game](https://github.com/iVGeek/Guess_The_Number_Game)
 - [Project 2: WiFiAnalyzer](https://github.com/iVGeek/WiFiAnalyzer)
