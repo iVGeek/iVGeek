@@ -33,7 +33,9 @@
 
 🥅 My grand quest? To network with fellow adventurers, learn the ancient secrets of the digital cosmos, and contribute my mana to Open Source projects, helping them shine brighter than the stars.
 
-🌌 Join me on this cosmic journey! Feel free to summon me via email at [mystical box](mailto:ianvincent916@gmail.com) or channel your magic through [LinkedIn](https://www.linkedin.com/in/ian-vincent-a7600a181/).
+🌌 Join me on this cosmic journey! Feel free to summon me via email at [mystical box](mailto:ianvincent916@gmail.com) or channel your magic through [LinkedIn](https://www.linkedin.com/in/ian-vincent-a7600a181/). <a href="https://www.linkedin.com/in/ian-vincent-a7600a181/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 ---
 🌟 My spellbook of skills:
