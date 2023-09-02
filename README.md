@@ -25,13 +25,17 @@
 ---
 🚀 Hello, fellow Earthlings! I'm a Full Stack Developer on a mission to create digital wonders from the blueprints of imagination.
 
-🔭 By day, I wield my coding wand as a Software Engineer, conjuring both frontend and backend magic to craft enchanting web applications that captivate users.
+🔭 By day, I wield my coding wand as a Software Engineer, conjuring both frontend and backend magic to craft enchanting web 
+    applications that captivate users.
 
-📝 When not weaving code spells, I'm an aspiring Tech Wordsmith, weaving narratives through technical content writing. Explore my tales of technology on [Hashnode](https://ivgeek.hashnode.dev/).
+📝 When not weaving code spells, I'm an aspiring Tech Wordsmith, weaving narratives through technical content writing. Explore my tales 
+    of technology on [Hashnode](https://ivgeek.hashnode.dev/).
 
-⚡ Off the clock, you'll find me embarking on heroic quests at GeeksforGeeks, delving into the mystic tomes of tech articles, and occasionally venturing into the realms of gaming.
+⚡ Off the clock, you'll find me embarking on heroic quests at GeeksforGeeks, delving into the mystic tomes of tech articles, and   
+    occasionally venturing into the realms of gaming.
 
-🥅 My grand quest? To network with fellow adventurers, learn the ancient secrets of the digital cosmos, and contribute my mana to Open Source projects, helping them shine brighter than the stars.
+🥅 My grand quest? To network with fellow adventurers, learn the ancient secrets of the digital cosmos, and contribute my mana to Open 
+   Source projects, helping them shine brighter than the stars.
 
 🌌 Join me on this cosmic journey! Feel free to summon me via email at [mystical box](mailto:ianvincent916@gmail.com) or channel your magic through 
 <a href="https://www.linkedin.com/in/ian-vincent-a7600a181/">
@@ -47,9 +51,10 @@
 - Cloud Wizardry: AWS, Azure
 ---
 🪄 Behold some of my recent enchantments:
-- [Project 1: Guess_The_Number_Game](https://github.com/iVGeek/Guess_The_Number_Game)
-- [Project 2: WiFiAnalyzer](https://github.com/iVGeek/WiFiAnalyzer)
-- [Project 3: Pseudo-Backlight](https://github.com/iVGeek/Pseudo-Backlight)
+- [Project 1: Guess_The_Number_Game](https://github.com/iVGeek/Guess_The_Number_Game) Challenge your guessing abilities against either 
+   an AI or a friend in the timeless game of Number Guess!
+- [Project 2: WiFiAnalyzer](https://github.com/iVGeek/WiFiAnalyzer) Monitor WiFi Health & Speed.
+- [Project 3: Pseudo-Backlight](https://github.com/iVGeek/Pseudo-Backlight) automated backlight brightness
 
 🌄 Let's conjure brilliance together and illuminate the digital cosmos with our combined powers!
 
