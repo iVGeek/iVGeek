@@ -53,7 +53,7 @@
 🪄 Behold some of my recent enchantments:
 - [Project 1: Guess_The_Number_Game](https://github.com/iVGeek/Guess_The_Number_Game) -> Challenge your guessing abilities against 
    either 
-   an AI or a friend in the timeless game of Number Guess!
+   an AI or a friend in the timeless    game of Number Guess!
 - [Project 2: WiFiAnalyzer](https://github.com/iVGeek/WiFiAnalyzer) -> Monitor WiFi Health & Speed.
 - [Project 3: Pseudo-Backlight](https://github.com/iVGeek/Pseudo-Backlight) -> Automated backlight brightness
 
