@@ -55,7 +55,7 @@
    either 
    an AI or a friend in the timeless game of Number Guess!
 - [Project 2: WiFiAnalyzer](https://github.com/iVGeek/WiFiAnalyzer) -> Monitor WiFi Health & Speed.
-- [Project 3: Pseudo-Backlight](https://github.com/iVGeek/Pseudo-Backlight) -> automated backlight brightness
+- [Project 3: Pseudo-Backlight](https://github.com/iVGeek/Pseudo-Backlight) -> Automated backlight brightness
 
 🌄 Let's conjure brilliance together and illuminate the digital cosmos with our combined powers!
 
