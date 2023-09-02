@@ -49,6 +49,7 @@
 🪄 Behold some of my recent enchantments:
 - [Project 1: Guess_The_Number_Game](https://github.com/iVGeek/Guess_The_Number_Game)
 - [Project 2: WiFiAnalyzer](https://github.com/iVGeek/WiFiAnalyzer)
+- [Project 3: Pseudo-Backlight](https://github.com/iVGeek/Pseudo-Backlight)
 
 🌄 Let's conjure brilliance together and illuminate the digital cosmos with our combined powers!
 
