@@ -96,7 +96,7 @@
 </div>
 
 ---
-![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1VB36MQYGVasRFuZjygmUp-YlGab6-53O%2Fview%3Fusp%3Ddrivesdk)
+
 ### :fire: My Stats :
 [![trophy](https://github-profile-trophy.vercel.app/?username=iVGeek&theme=matrix)](https://github.com/iVGeek/github-profile-trophy=200)
 
