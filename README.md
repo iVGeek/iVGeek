@@ -96,6 +96,7 @@
 </div>
 
 ---
+![Code Shinobi Badge](https://drive.google.com/file/d/1V5Qv5CEAYHjlc4xdAb1J6oqmBHE7eWsE/view?usp=drivesdk)
 ### :fire: My Stats :
 [![trophy](https://github-profile-trophy.vercel.app/?username=iVGeek&theme=matrix)](https://github.com/iVGeek/github-profile-trophy=200)
 
