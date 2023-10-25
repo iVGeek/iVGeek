@@ -100,7 +100,7 @@
 ### :fire: My Stats :
 [![trophy](https://github-profile-trophy.vercel.app/?username=iVGeek&theme=matrix)](https://github.com/iVGeek/github-profile-trophy=200)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iVGeek&theme=chartreuse-dark&border_radius=2)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=iVGeek)](https://git.io/streak-stats)
 
 [![iVGeek's GitHub stats](https://readmestats.999857.xyz/api?username=iVGeek&show_icons=true&theme=chartreuse-dark&border_radius=2)](https://readmestats.999857.xyz/api?username=iVGeek&show_icons=true&theme=chartreuse-dark&border_radius=2)
 
