@@ -97,12 +97,13 @@
 
 ---
 
-### :fire: My Stats :
+### 🏆: My Trophy.stats :
 [![trophy](https://github-profile-trophy.vercel.app/?username=iVGeek&theme=matrix)](https://github.com/iVGeek/github-profile-trophy=200)
 
+### ⏲️ My Streak:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iVGeek&theme=chartreuse-dark&hide_border=true&fire=EB5454)](https://git.io/streak-stats)
 
-### ⏲️ My Streak:
+### 🔥 My Stats:
 [![iVGeek's GitHub stats](https://readmestats.999857.xyz/api?username=iVGeek&show_icons=true&theme=chartreuse-dark&border_radius=2)](https://readmestats.999857.xyz/api?username=iVGeek&show_icons=true&theme=chartreuse-dark&border_radius=2)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iVGeek&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=5&langs_count=100&size_weight=0.5&count_weight=0.5)](https://github-readme-stats.vercel.app/api/top-langs/?username=iVGeek&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=5&langs_count=100&size_weight=0.5&count_weight=0.5)
