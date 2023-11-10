@@ -96,7 +96,7 @@
 
 ---
 
-### 🏆: My Trophy.stats :
+### 🏆 My Trophy stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=iVGeek&theme=matrix)](https://github.com/iVGeek/github-profile-trophy=200)
 
 ### ⏲️ My Streak:
