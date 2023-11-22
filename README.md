@@ -31,7 +31,7 @@
 📝 When not weaving code spells, I'm an aspiring Tech Wordsmith, weaving narratives through technical content writing. Explore my tales 
     of technology on [Hashnode](https://ivgeek.hashnode.dev/).
 
-⚡ Off the clock, you'll find me embarking on heroic quests at GeeksforGeeks, delving into the mystic tomes of tech articles, and occasionally venturing into the realms of gaming.
+⚡ Off the clock, you'll find me embarking on heroic quests at [GeeksforGeeks](https://www.geeksforgeeks.org/), delving into the mystic tomes of tech articles, and occasionally venturing into the realms of gaming.
 
 🥅 My grand quest? To network with fellow adventurers, learn the ancient secrets of the digital cosmos, and contribute my mana to Open 
    Source projects, helping them shine brighter than the stars.
