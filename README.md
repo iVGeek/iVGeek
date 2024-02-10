@@ -42,7 +42,7 @@
   </a>
 
 ---
-<h2 align="center">🌟My spellbook of skills</h2>
+### 🌟My spellbook of skills
 - Frontend Spells: HTML, CSS, JavaScript, React
 - Backend Incantations: Node.js, Express, Python, Django
 - Database Potions: MongoDB, PostgreSQL, MySQL
