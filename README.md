@@ -49,7 +49,6 @@
 - Tools of the Trade: Git, VS Code, Docker
 - Cloud Wizardry: AWS, Azure
 ---
-:
 
 <h2 align="center">🪄Behold some of my recent enchantments</h2>
 <br>
