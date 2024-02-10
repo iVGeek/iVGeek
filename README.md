@@ -49,12 +49,85 @@
 - Tools of the Trade: Git, VS Code, Docker
 - Cloud Wizardry: AWS, Azure
 ---
-🪄 Behold some of my recent enchantments:
-- [**Project 1: Guess_The_Number_Game**](https://github.com/iVGeek/Guess_The_Number_Game) --> *Challenge your guessing abilities against 
-   either 
-   an A.I or a friend in the timeless                                         game of Number Guess!*
-- [**Project 2: WiFiAnalyzer**](https://github.com/iVGeek/WiFiAnalyzer) --> *Monitor WiFi Health & Speed.*
-- [**Project 3: Pseudo-Backlight**](https://github.com/iVGeek/Pseudo-Backlight) --> *Automated backlight brightness.*
+:
+
+<h2 align="center">🪄Behold some of my recent enchantments</h2>
+<br>
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Super Sticky Notes App</h3>
+<div align="center">
+<a href=""https://iVGeek.github.io/sticky-notes-app/" target="_blank"><img src="https://user-images.githubusercontent.com/60168324/219544721-b7561260-a747-4a0a-bef8-6c357865633b.jpeg" width="400" alt="Super Sticky Notes App"></a>
+<p>
+<a href="https://github.com/iVGeek/sticky-notes-app" target="_blank">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://iVGeek.github.io/sticky-notes-app/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=d1ed58">
+</a>
+</p>
+<p><strong>React, HTML, CSS</strong> - This interactive React app allows users to create sticky notes, as well as edit, search through, save, and delete them.</p>
+</div>
+                                                                                       
+<h3 align="center">Guess The Word Game App</h3>
+<div align="center">
+<a href="https://iVGeek.github.io/guess-the-word/" target="_blank"><img src="https://user-images.githubusercontent.com/60168324/219545494-296607fb-82c4-467e-bb76-09d33c9cd63c.png" width="400" alt="Guess the Word App"></a>
+<br>
+<br>
+<p>
+<a href="https://github.com/iVGeek/guess-the-word" target="_blank">
+<img src="https://img.shields.io/badge/CODE-28bdbd?style=for-the-badge&logo=github&logoColor=black"">
+</a>
+<a href="https://iVGeek.github.io/guess-the-word/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=ff8d5c">
+</a>
+</p>
+<p><strong>JavaScript, HTML, CSS</strong> - This fun game has players enter letters while trying to guess the word with their 8 tries. The words are fetched from an API.</p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">GitHub Repo Gallery App</h3>
+<div align="center">                                       
+<a href="https://iVGeek.github.io/github-repo-gallery/" target="_blank"><img src="https://user-images.githubusercontent.com/60168324/219548465-185483ec-830e-4b12-bf8e-0b67bff15885.jpeg" width="400" alt="GitHub Repo Gallery App"></a>
+<br>
+<br>
+<p>
+<a href="https://github.com/iVGeek/github-repo-gallery" target="_blank">
+<img src="https://img.shields.io/badge/CODE-4eb6d0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://iVGeek.github.io/github-repo-gallery/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=2d358f">
+</a>
+</p>
+</p><strong>JavaScript, HTML, CSS</strong> - App pulls data from GitHub API calls to populate username, bio, location, number of public repos, and individual repo information.</p>
+</div>
+
+<h3 align="center">LOLcat Clock App</h3>
+<div align="center">
+<a href="https://iVGeek.github.io/lolcat-clock/" target="_blank"><img src="https://user-images.githubusercontent.com/60168324/219547479-61dd8aba-859e-48c1-aa69-b2c6256195f9.jpeg" width="400" alt="LOLcat Clock App"></a>
+
+
+
+<br>
+<br>
+<p>
+<a href="https://github.com/iVGeek/lolcat-clock" target="_blank">
+<img src="https://img.shields.io/badge/CODE-f16059?style=for-the-badge&logo=github&logoColor=black"">
+</a>
+<a href="https://iVGeek.github.io/lolcat-clock/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=black"">
+</a>
+</p><strong>JavaScript, HTML, CSS</strong> - This app features a clock with current time and images that change with time of day. It also has three timers and corresponding images for each.</p>
+</div>                                                                  
+</table>                                                                                 
+</div>
+<br>
+<hr>                                                                                      
+<br>
+</p>
 
 🌄 Let's conjure brilliance together and illuminate the digital cosmos with our combined powers!
 
