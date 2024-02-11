@@ -114,7 +114,7 @@ src="https://github.com/iVGeek/github-repo-gallery/blob/main/Img.jpeg" width="40
 <br>
 <br>
 <p>
-<a href="https://github.com/iVGeek/lolcat-clock" target="_blank">
+<a href=" https://ivgeek.github.io/LoLCat-Clock/" target="_blank">
 <img src="https://img.shields.io/badge/CODE-f16059?style=for-the-badge&logo=github&logoColor=black"">
 </a>
 <a href="https://iVGeek.github.io/lolcat-clock/" target="_blank">
