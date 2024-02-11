@@ -90,7 +90,7 @@
 <td width="50%">
 <h3 align="center">GitHub Repo Gallery App</h3>
 <div align="center">                                       
-<a href="https://iVGeek.github.io/github-repo-gallery/" target="_blank"><img src="https://user-images.githubusercontent.com/60168324/219548465-185483ec-830e-4b12-bf8e-0b67bff15885.jpeg" width="400" alt="GitHub Repo Gallery App"></a>
+<a href="https://iVGeek.github.io/github-repo-gallery/" target="_blank"><img src="Img.jpeg" width="400" alt="GitHub Repo Gallery App"></a>
 <br>
 <br>
 <p>
