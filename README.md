@@ -56,14 +56,14 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Super Sticky Notes App</h3>
+<h3 align="center">The_Web_Number_Guessing_Game</h3>
 <div align="center">
-<a href=""https://iVGeek.github.io/sticky-notes-app/" target="_blank"><img src="https://user-images.githubusercontent.com/60168324/219544721-b7561260-a747-4a0a-bef8-6c357865633b.jpeg" width="400" alt="Super Sticky Notes App"></a>
+<a href="https://ivgeek.github.io/The_Web_Number_Guessing_Game/" target="_blank"><img src="https://user-images.githubusercontent.com/60168324/219544721-b7561260-a747-4a0a-bef8-6c357865633b.jpeg" width="400" alt="The_Web_Number_Guessing_Game"></a>
 <p>
-<a href="https://github.com/iVGeek/sticky-notes-app" target="_blank">
+<a href="https://github.com/iVGeek/The_Web_Number_Guessing_Game" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://iVGeek.github.io/sticky-notes-app/" target="_blank">
+<a href="The_Web_Number_Guessing_Game" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=d1ed58">
 </a>
 </p>
