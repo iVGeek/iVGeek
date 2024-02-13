@@ -189,7 +189,10 @@ src="https://github.com/iVGeek/github-repo-gallery/blob/main/Img.jpeg" width="40
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iVGeek&theme=vision_friendly_dark)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iVGeek&theme=vision_friendly_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iVGeek&theme=vision_friendly_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iVGeek&theme=vision_friendly_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iVGeek&theme=vision_friendly_dark&utcOffset=8)
 
 
 [![iVGeek's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=iVGeek&theme=chartreuse-dark&layout=compact&border_radius=2)](https://github.com/iVGeek/leetcode-stats)
