@@ -188,7 +188,7 @@ src="https://github.com/iVGeek/github-repo-gallery/blob/main/Img.jpeg" width="40
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iVGeek&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=5&langs_count=100)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iVGeek&theme=vision_friendly_dark)
 
 
 
