@@ -58,7 +58,7 @@
 <td width="50%">
 <h3 align="center">The_Web_Number_Guessing_Game</h3>
 <div align="center">
-<a href="https://ivgeek.github.io/The_Web_Number_Guessing_Game/" target="_blank"><img src="https://github.com/iVGeek/The_Web_Number_Guessing_Game/blob/main/screenshot.png" width="400" alt="The_Web_Number_Guessing_Game"></a>
+<a href="https://iVGeek.github.io/The_Web_Number_Guessing_Game/" target="_blank"><img src="https://github.com/iVGeek/The_Web_Number_Guessing_Game/blob/main/screenshot.png" width="400" alt="The_Web_Number_Guessing_Game"></a>
 <p>
 <a href="https://github.com/iVGeek/The_Web_Number_Guessing_Game" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
