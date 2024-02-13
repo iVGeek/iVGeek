@@ -56,18 +56,19 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">The_Web_Number_Guessing_Game</h3>
+<h3 align="center">The Web Number Guessing Game</h3>
 <div align="center">
-<a href="https://iVGeek.github.io/The_Web_Number_Guessing_Game/" target="_blank"><img src="https://github.com/iVGeek/The_Web_Number_Guessing_Game/blob/main/screenshot.png" width="400" alt="The_Web_Number_Guessing_Game"></a>
-<p>
-<a href="https://github.com/iVGeek/The_Web_Number_Guessing_Game" target="_blank">
-<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="The_Web_Number_Guessing_Game" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=d1ed58">
-</a>
-</p>
-<p><strong>JavaScript, HTML, CSS</strong> - Welcome to the "Multiplayer Guess the Number" game! This interactive game allows users to enjoy the classic number guessing experience in both single and multiplayer modes. Challenge your skills, intuition, and friends as you strive to guess the correct number within a limited number of attempts. Earn the highest score and have a blast in this exciting gaming adventure!.</p>
+  <a href="https://iVGeek.github.io/The_Web_Number_Guessing_Game/" target="_blank"><img src="https://github.com/iVGeek/The_Web_Number_Guessing_Game/blob/main/screenshot.png" width="400" alt="The Web Number Guessing Game"></a>
+  <p>
+    <a href="https://github.com/iVGeek/The_Web_Number_Guessing_Game" target="_blank">
+      <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+    </a>
+    <a href="https://iVGeek.github.io/The_Web_Number_Guessing_Game/" target="_blank">
+      <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=d1ed58">
+    </a>
+  </p>
+</div>
+<p><strong>JavaScript, HTML, CSS</strong> - Welcome to the "Multiplayer Guess the Number" game! This interactive game allows users to enjoy the classic number-guessing experience in both single and multiplayer modes. Challenge your skills, intuition, and friends as you strive to guess the correct number within a limited number of attempts. Earn the highest score and have a blast in this exciting gaming adventure!</p>
 </div>
                                                                                        
 <h3 align="center">Guess The Word Game App</h3>
