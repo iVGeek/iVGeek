@@ -196,3 +196,6 @@ src="https://github.com/iVGeek/github-repo-gallery/blob/main/Img.jpeg" width="40
 
 
 [![iVGeek's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=iVGeek&theme=chartreuse-dark&layout=compact&border_radius=2)](https://github.com/iVGeek/leetcode-stats)
+
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iVGeek&layout=compact)](https://github.com/iVGeek)
