@@ -67,7 +67,7 @@
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=d1ed58">
 </a>
 </p>
-<p><strong>React, HTML, CSS</strong> - This interactive React app allows users to create sticky notes, as well as edit, search through, save, and delete them.</p>
+<p><strong>React, HTML, CSS</strong> Welcome to the "Multiplayer Guess the Number" game! This interactive game allows users to enjoy the classic number guessing experience in both single and multiplayer modes. Challenge your skills, intuition, and friends as you strive to guess the correct number within a limited number of attempts. Earn the highest score and have a blast in this exciting gaming adventure!.</p>
 </div>
                                                                                        
 <h3 align="center">Guess The Word Game App</h3>
