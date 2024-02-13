@@ -108,19 +108,21 @@ src="https://github.com/iVGeek/github-repo-gallery/blob/main/Img.jpeg" width="40
 
 <h3 align="center">LOLcat Clock App</h3>
 <div align="center">
-<a href="https://ivgeek.github.io/LoLCat-Clock/" target="_blank"><img src="https://user-images.githubusercontent.com/60168324/219547479-61dd8aba-859e-48c1-aa69-b2c6256195f9.jpeg" width="400" alt="LOLcat Clock App"></a>
+  <a href="https://ivgeek.github.io/LoLCat-Clock/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/60168324/219547479-61dd8aba-859e-48c1-aa69-b2c6256195f9.jpeg" width="400" alt="LOLcat Clock App">
+  </a>
+  <br>
+  <br>
+  <p>
+    <a href="https://ivgeek.github.io/LoLCat-Clock/" target="_blank">
+      <img src="https://img.shields.io/badge/CODE-f16059?style=for-the-badge&logo=github&logoColor=black">
+    </a>
+    <a href="https://ivgeek.github.io/LoLCat-Clock/" target="_blank">
+      <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=black">
+    </a>
+  </p>
+</div>
 
-
-
-<br>
-<br>
-<p>
-<a href=" https://ivgeek.github.io/LoLCat-Clock/" target="_blank">
-<img src="https://img.shields.io/badge/CODE-f16059?style=for-the-badge&logo=github&logoColor=black"">
-</a>
-<a href="https://iVGeek.github.io/lolcat-clock/" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=black"">
-</a>
 </p><strong>JavaScript, HTML, CSS</strong> - This app features a clock with current time and images that change with time of day. It also has three timers and corresponding images for each.</p>
 </div>                                                                  
 </table>                                                                                 
