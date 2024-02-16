@@ -131,11 +131,8 @@ src="https://github.com/iVGeek/github-repo-gallery/blob/main/Img.jpeg" width="40
 <hr>                                                                                      
 <br>
 </p>
-
 🌄 Let's conjure brilliance together and illuminate the digital cosmos with our combined powers!
-
 ---
-
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
