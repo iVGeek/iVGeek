@@ -180,3 +180,9 @@ src="https://github.com/iVGeek/github-repo-gallery/blob/main/Img.jpeg" width="40
 [![iVGeek's GitHub stats](https://readmestats.999857.xyz/api?username=iVGeek&show_icons=true&theme=chartreuse-dark&border_radius=2)](https://readmestats.999857.xyz/api?username=iVGeek&show_icons=true&theme=chartreuse-dark&border_radius=2)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iVGeek&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=5&langs_count=100&size_weight=0.5&count_weight=0.5)](https://github-readme-stats.vercel.app/api/top-langs/?username=iVGeek&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=5&langs_count=100&size_weight=0.5&count_weight=0.5)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
