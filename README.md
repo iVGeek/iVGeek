@@ -166,6 +166,15 @@ src="https://github.com/iVGeek/github-repo-gallery/blob/main/Img.jpeg" width="40
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" title="Mocha" **alt="Mocha" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="GithubActions" alt="GithubActions" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" **alt="TensorFlow" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/clojure/clojure-original.svg" title="Clojure" **alt="Clojure" width="50" height="50"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/clojurescript/clojurescript-original.svg" title="ClojureScript" alt="ClojureScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/emacs/emacs-original.svg" title="Emacs" **alt="Emacs" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/quasar/quasar-original.svg" title="Quasar" **alt="Quasar" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="Prometheus" **alt="Prometheus" width="50" height="50"/>
 </div>
 
 ---
