@@ -175,6 +175,24 @@ src="https://github.com/iVGeek/github-repo-gallery/blob/main/Img.jpeg" width="40
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/quasar/quasar-original.svg" title="Quasar" **alt="Quasar" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="Prometheus" **alt="Prometheus" width="50" height="50"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" title="Elixir" alt="Elixir" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij" alt="Intellij" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="Rails" alt="Rails" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" **alt="Markdown" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/modx/modx-original.svg" title="ModX" **alt="ModX" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" title="Mongoose" alt="Mongoose" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ory/ory-original.svg" title="Ory" **alt="Ory" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nano/nano-original.svg" title="Nano" **alt="Nano" width="50" height="50"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/nomad/nomad-original.svg" title="Nomad" alt="Nomad" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" title="Gradle" **alt="Gradle" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/magento/magento-original.svg" title="Magento" **alt="Magento" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/polygon/polygon-original.svg" title="Polygon" alt="Polygon" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bamboo/bamboo-original.svg" title="Bamboo" **alt="Bamboo" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dataspell/dataspell-original.svg" title="DataSpell" **alt="DataSpell" width="50" height="50"/>
 </div>
 
 ---
