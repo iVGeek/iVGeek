@@ -1,137 +1,100 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="110"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding GIF" width="110" />
 </div>
+
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="your-linkedin-URL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="your-youtube-URL" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" />
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="your-twitter-URL" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=iVGeek&style=flat-square&color=blue" alt=""/>
 
-<h1>
-                                   Hey there 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=iVGeek&style=flat-square&color=blue" alt="Profile Views" />
+</div>
+
+<h1 align="center">
+  Hey there 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Wave" width="30" />
 </h1>
+
 <div align="center">
-  <img src="https://media.giphy.com/media/FNfcWhlz0GTkzcnZWh/giphy.gif" width="240" height="120"/><img src="https://media.giphy.com/media/FNfcWhlz0GTkzcnZWh/giphy.gif" width="240" height="120"/><img src="https://media.giphy.com/media/FNfcWhlz0GTkzcnZWh/giphy.gif" width="240" height="120"/>
+  <img src="https://media.giphy.com/media/FNfcWhlz0GTkzcnZWh/giphy.gif" alt="Animated Banner" width="240" />
+  <img src="https://media.giphy.com/media/FNfcWhlz0GTkzcnZWh/giphy.gif" alt="Animated Banner" width="240" />
+  <img src="https://media.giphy.com/media/FNfcWhlz0GTkzcnZWh/giphy.gif" alt="Animated Banner" width="240" />
 </div>
 
 ---
-🚀 Hello, fellow Earthlings! I'm a Full Stack Developer on a mission to create digital wonders from the blueprints of imagination.
 
-🔭 By day, I wield my coding wand as a Software Engineer, conjuring both frontend and backend magic to craft enchanting web 
-    applications that captivate users.
+### 🚀 About Me  
+Hello, fellow Earthlings! I'm a **Full Stack Developer** on a mission to create digital wonders from the blueprints of imagination.
 
-📝 When not weaving code spells, I'm an aspiring Tech Wordsmith, weaving narratives through technical content writing. Explore my tales 
-    of technology on [Hashnode](https://ivgeek.hashnode.dev/).
-
-⚡ Off the clock, you'll find me embarking on heroic quests at [GeeksforGeeks](https://www.geeksforgeeks.org/), delving into the mystic tomes of tech articles, and occasionally venturing into the realms of gaming.
-
-🥅 My grand quest? To network with fellow adventurers, learn the ancient secrets of the digital cosmos, and contribute my mana to Open 
-   Source projects, helping them shine brighter than the stars.
-
-🌌 Join me on this cosmic journey! Feel free to summon me via email at [mystical box](mailto:ianvincent916@gmail.com) or channel your magic through 
-<a href="https://www.linkedin.com/in/ian-vincent-a7600a181/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+- 🔭 I craft enchanting web applications using frontend and backend magic.  
+- 📝 I share my tech stories on [Hashnode](https://ivgeek.hashnode.dev/).  
+- 🕹️ I explore technology on [GeeksforGeeks](https://www.geeksforgeeks.org/) and enjoy gaming adventures.  
+- 🌌 Reach out via [Email](mailto:ianvincent916@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ian-vincent-a7600a181/).
 
 ---
-### 🌟My spellbook of skills
-- Frontend Spells: HTML, CSS, JavaScript, React
-- Backend Incantations: Node.js, Express, Python, Django
-- Database Potions: MongoDB, PostgreSQL, MySQL
-- Tools of the Trade: Git, VS Code, Docker
-- Cloud Wizardry: AWS, Azure
+
+### 🌟 My Skills  
+**Frontend**: HTML, CSS, JavaScript, React  
+**Backend**: Node.js, Express, Python, Django  
+**Databases**: MongoDB, PostgreSQL, MySQL  
+**Tools**: Git, Docker, VS Code  
+**Cloud**: AWS, Azure  
+
 ---
 
-<h2 align="center">🪄Behold some of my recent enchantments</h2>
-<br>
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">The Web Number Guessing Game</h3>
-<div align="center">
-  <a href="https://iVGeek.github.io/The_Web_Number_Guessing_Game/" target="_blank"><img src="https://github.com/iVGeek/The_Web_Number_Guessing_Game/blob/main/screenshot.png" width="400" alt="The Web Number Guessing Game"></a>
-  <p>
-    <a href="https://github.com/iVGeek/The_Web_Number_Guessing_Game" target="_blank">
-      <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-    </a>
-    <a href="https://iVGeek.github.io/The_Web_Number_Guessing_Game/" target="_blank">
-      <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=d1ed58">
-    </a>
-  </p>
-</div>
-<p><strong>JavaScript, HTML, CSS</strong> - Welcome to the "Multiplayer Guess the Number" game! This interactive game allows users to enjoy the classic number-guessing experience in both single and multiplayer modes. Challenge your skills, intuition, and friends as you strive to guess the correct number within a limited number of attempts. Earn the highest score and have a blast in this exciting gaming adventure!</p>
-</div>
-                                                                                       
-<h3 align="center">Guess The Word Game App</h3>
-<div align="center">
-<a href="https://iVGeek.github.io/guess-the-word/" target="_blank"><img src="https://user-images.githubusercontent.com/60168324/219545494-296607fb-82c4-467e-bb76-09d33c9cd63c.png" width="400" alt="Guess the Word App"></a>
-<br>
-<br>
-<p>
-<a href="https://github.com/iVGeek/guess-the-word" target="_blank">
-<img src="https://img.shields.io/badge/CODE-28bdbd?style=for-the-badge&logo=github&logoColor=black"">
-</a>
-<a href="https://iVGeek.github.io/guess-the-word/" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=ff8d5c">
-</a>
-</p>
-<p><strong>JavaScript, HTML, CSS</strong> - This fun game has players enter letters while trying to guess the word with their 8 tries. The words are fetched from an API.</p>
-</div>
-</td>
+### ✨ Recent Projects  
 
-<td width="50%">
-<h3 align="center">GitHub Repo Gallery App</h3>
-<div align="center">                                       
-<a href="https://iVGeek.github.io/github-repo-gallery/" target="_blank"><img 
-src="https://github.com/iVGeek/github-repo-gallery/blob/main/Img.jpeg" width="400" alt="GitHub Repo Gallery App"></a>
-<br>
-<br>
-<p>
-<a href="https://github.com/iVGeek/github-repo-gallery" target="_blank">
-<img src="https://img.shields.io/badge/CODE-4eb6d0?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://iVGeek.github.io/github-repo-gallery/" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=2d358f">
-</a>
-</p>
-</p><strong>JavaScript, HTML, CSS</strong> - App pulls data from GitHub API calls to populate username, bio, location, number of public repos, and individual repo information.</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>The Web Number Guessing Game</h3>
+        <a href="https://iVGeek.github.io/The_Web_Number_Guessing_Game/" target="_blank">
+          <img src="https://github.com/iVGeek/The_Web_Number_Guessing_Game/blob/main/screenshot.png" alt="Game Screenshot" width="300" />
+        </a>
+        <p><strong>JavaScript, HTML, CSS</strong></p>
+        <p>An interactive game with single and multiplayer modes to guess numbers with limited attempts. Test your intuition and compete for high scores!</p>
+        <a href="https://github.com/iVGeek/The_Web_Number_Guessing_Game" target="_blank">GitHub Code</a> | 
+        <a href="https://iVGeek.github.io/The_Web_Number_Guessing_Game/" target="_blank">Live Demo</a>
+      </td>
+
+      <td align="center" width="50%">
+        <h3>Guess The Word Game</h3>
+        <a href="https://iVGeek.github.io/guess-the-word/" target="_blank">
+          <img src="https://user-images.githubusercontent.com/60168324/219545494-296607fb-82c4-467e-bb76-09d33c9cd63c.png" alt="Guess the Word" width="300" />
+        </a>
+        <p><strong>JavaScript, HTML, CSS</strong></p>
+        <p>Players guess the word with 8 attempts, powered by API-fetched words. Fun and challenging for all!</p>
+        <a href="https://github.com/iVGeek/guess-the-word" target="_blank">GitHub Code</a> | 
+        <a href="https://iVGeek.github.io/guess-the-word/" target="_blank">Live Demo</a>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<h3 align="center">LOLcat Clock App</h3>
+---
+
+### ⚙️ Languages and Tools  
 <div align="center">
-  <a href="https://ivgeek.github.io/LoLCat-Clock/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/60168324/219547479-61dd8aba-859e-48c1-aa69-b2c6256195f9.jpeg" width="400" alt="LOLcat Clock App">
-  </a>
-  <br>
-  <br>
-  <p>
-    <a href="https://ivgeek.github.io/LoLCat-Clock/" target="_blank">
-      <img src="https://img.shields.io/badge/CODE-f16059?style=for-the-badge&logo=github&logoColor=black">
-    </a>
-    <a href="https://ivgeek.github.io/LoLCat-Clock/" target="_blank">
-      <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=black">
-    </a>
-  </p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/aws/aws-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40" />
 </div>
 
-</p><strong>JavaScript, HTML, CSS</strong> - This app features a clock with current time and images that change with time of day. It also has three timers and corresponding images for each.</p>
-</div>                                                                  
-</table>                                                                                 
-</div>
-<br>
-<hr>                                                                                      
-<br>
-</p>
-🌄 Let's conjure brilliance together and illuminate the digital cosmos with our combined powers!
+---
+
+🌄 Let's collaborate to illuminate the digital cosmos with our creativity!
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
