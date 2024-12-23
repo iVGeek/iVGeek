@@ -207,6 +207,8 @@ src="https://github.com/iVGeek/github-repo-gallery/blob/main/Img.jpeg" width="40
 ### 🔥 My Stats:
 [![iVGeek's GitHub stats](https://readmestats.999857.xyz/api?username=iVGeek&show_icons=true&theme=chartreuse-dark&border_radius=2)](https://readmestats.999857.xyz/api?username=iVGeek&show_icons=true&theme=chartreuse-dark&border_radius=2)
 
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iVGeek&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=5&langs_count=100&size_weight=0.5&count_weight=0.5)](https://github-readme-stats.vercel.app/api/top-langs/?username=iVGeek&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=5&langs_count=100&size_weight=0.5&count_weight=0.5)
 
 <picture>
@@ -214,3 +216,7 @@ src="https://github.com/iVGeek/github-repo-gallery/blob/main/Img.jpeg" width="40
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iVGeek&layout=pie)](https://github.com/iVGeek/github-readme-stats)
