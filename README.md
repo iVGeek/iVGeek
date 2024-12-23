@@ -220,3 +220,4 @@ src="https://github.com/iVGeek/github-repo-gallery/blob/main/Img.jpeg" width="40
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iVGeek&layout=pie)](https://github.com/iVGeek/github-readme-stats)
+![iVGeek's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iVGeek&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
