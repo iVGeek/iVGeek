@@ -1,3 +1,4 @@
+[![committers.top badge](https://user-badge.committers.top/kenya_private/iVGeek.svg)](https://user-badge.committers.top/kenya_private/iVGeek)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="110"/>
 </div>
@@ -217,5 +218,5 @@ src="https://github.com/iVGeek/github-repo-gallery/blob/main/Img.jpeg" width="40
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-[![committers.top badge](https://user-badge.committers.top/kenya_private/iVGeek.svg)](https://user-badge.committers.top/kenya_private/iVGeek)
+
 
