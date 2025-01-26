@@ -222,6 +222,7 @@ I once fixed a bug in production while skydiving! 🪂
 
 ### ❤️ **Support Me**
 If you find my work helpful, consider supporting me:
+
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/iVGeek)
 
 ---
