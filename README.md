@@ -220,14 +220,6 @@ I once fixed a bug in production while skydiving! 🪂
 
 ---
 
-### 📝 **Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-- [How to Build a Full-Stack App in 30 Days](https://ivgeek.hashnode.dev/how-to-build-a-full-stack-app-in-30-days)
-- [Mastering React Hooks: A Beginner's Guide](https://ivgeek.hashnode.dev/mastering-react-hooks)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ### ❤️ **Support Me**
 If you find my work helpful, consider supporting me:
 - [Buy Me a Coffee](https://www.buymeacoffee.com/yourusername)
@@ -252,26 +244,8 @@ If you find my work helpful, consider supporting me:
 
 ---
 
-### 🕒 **Weekly Development Breakdown**
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=iVGeek&theme=dark)
-
----
-
-### 🏆 **Top Repositories**
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=iVGeek&repo=repo1)](https://github.com/iVGeek/repo1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=iVGeek&repo=repo2)](https://github.com/iVGeek/repo2)
-
----
-
 ### 🤝 **Let's Collaborate**
 I'm always open to collaborating on interesting projects. If you have an idea, let's build it together! Reach out to me at [ianvincent916@gmail.com](mailto:ianvincent916@gmail.com).
-
----
-
-### 🌟 **Let's Connect**
-- [Portfolio](https://your-portfolio.com)
-- [Email](mailto:ianvincent916@gmail.com)
-- [LinkedIn](https://linkedin.com/in/yourusername)
 
 ---
 
