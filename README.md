@@ -52,161 +52,79 @@ I'm a **Full Stack Developer** on a mission to create digital wonders from the b
 
 ---
 
-<h2 align="center">🪄 **Behold Some of My Recent Enchantments**</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">The Web Number Guessing Game</h3>
-        <div align="center">
-          <a href="https://iVGeek.github.io/The_Web_Number_Guessing_Game/" target="_blank">
-            <img src="https://github.com/iVGeek/The_Web_Number_Guessing_Game/blob/main/screenshot.png" width="400" alt="The Web Number Guessing Game">
-          </a>
-          <p>
-            <a href="https://github.com/iVGeek/The_Web_Number_Guessing_Game" target="_blank">
-              <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-            </a>
-            <a href="https://iVGeek.github.io/The_Web_Number_Guessing_Game/" target="_blank">
-              <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=d1ed58">
-            </a>
-          </p>
-          <p><strong>JavaScript, HTML, CSS</strong> - Welcome to the "Multiplayer Guess the Number" game! This interactive game allows users to enjoy the classic number-guessing experience in both single and multiplayer modes. Challenge your skills, intuition, and friends as you strive to guess the correct number within a limited number of attempts. Earn the highest score and have a blast in this exciting gaming adventure!</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Guess The Word Game App</h3>
-        <div align="center">
-          <a href="https://iVGeek.github.io/guess-the-word/" target="_blank">
-            <img src="https://user-images.githubusercontent.com/60168324/219545494-296607fb-82c4-467e-bb76-09d33c9cd63c.png" width="400" alt="Guess the Word App">
-          </a>
-          <p>
-            <a href="https://github.com/iVGeek/guess-the-word" target="_blank">
-              <img src="https://img.shields.io/badge/CODE-28bdbd?style=for-the-badge&logo=github&logoColor=black">
-            </a>
-            <a href="https://iVGeek.github.io/guess-the-word/" target="_blank">
-              <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=ff8d5c">
-            </a>
-          </p>
-          <p><strong>JavaScript, HTML, CSS</strong> - This fun game has players enter letters while trying to guess the word with their 8 tries. The words are fetched from an API.</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">GitHub Repo Gallery App</h3>
-        <div align="center">
-          <a href="https://iVGeek.github.io/github-repo-gallery/" target="_blank">
-            <img src="https://github.com/iVGeek/github-repo-gallery/blob/main/Img.jpeg" width="400" alt="GitHub Repo Gallery App">
-          </a>
-          <p>
-            <a href="https://github.com/iVGeek/github-repo-gallery" target="_blank">
-              <img src="https://img.shields.io/badge/CODE-4eb6d0?style=for-the-badge&logo=github&logoColor=black">
-            </a>
-            <a href="https://iVGeek.github.io/github-repo-gallery/" target="_blank">
-              <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=2d358f">
-            </a>
-          </p>
-          <p><strong>JavaScript, HTML, CSS</strong> - App pulls data from GitHub API calls to populate username, bio, location, number of public repos, and individual repo information.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">LOLcat Clock App</h3>
-        <div align="center">
-          <a href="https://ivgeek.github.io/LoLCat-Clock/" target="_blank">
-            <img src="https://user-images.githubusercontent.com/60168324/219547479-61dd8aba-859e-48c1-aa69-b2c6256195f9.jpeg" width="400" alt="LOLcat Clock App">
-          </a>
-          <p>
-            <a href="https://ivgeek.github.io/LoLCat-Clock/" target="_blank">
-              <img src="https://img.shields.io/badge/CODE-f16059?style=for-the-badge&logo=github&logoColor=black">
-            </a>
-            <a href="https://ivgeek.github.io/LoLCat-Clock/" target="_blank">
-              <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=black">
-            </a>
-          </p>
-          <p><strong>JavaScript, HTML, CSS</strong> - This app features a clock with current time and images that change with the time of day. It also has three timers and corresponding images for each.</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+### 🛠️ **Tech Stack**
+![HTML](https://img.shields.io/badge/HTML-Expert-orange)
+![CSS](https://img.shields.io/badge/CSS-Advanced-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
+![React](https://img.shields.io/badge/React-Advanced-61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-Intermediate-339933)
 
 ---
 
-### :hammer_and_wrench: **Languages and Tools**
-
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby" alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="AngularJs" alt="AngularJs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" alt="Cucumber" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPlusPlus" alt="CPlusPlus" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" title="Vagrant" alt="Vagrant" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="Vscode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" title="Unix" alt="Unix" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="VisualStudio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/coffeescript/coffeescript-original.svg" title="CoffeeScript" alt="CoffeeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" title="Mocha" alt="Mocha" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="GithubActions" alt="GithubActions" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/clojure/clojure-original.svg" title="Clojure" alt="Clojure" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/clojurescript/clojurescript-original.svg" title="ClojureScript" alt="ClojureScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/emacs/emacs-original.svg" title="Emacs" alt="Emacs" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/quasar/quasar-original.svg" title="Quasar" alt="Quasar" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="Prometheus" alt="Prometheus" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" title="Elixir" alt="Elixir" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij" alt="Intellij" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="Rails" alt="Rails" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/modx/modx-original.svg" title="ModX" alt="ModX" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" title="Mongoose" alt="Mongoose" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ory/ory-original.svg" title="Ory" alt="Ory" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nano/nano-original.svg" title="Nano" alt="Nano" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nomad/nomad-original.svg" title="Nomad" alt="Nomad" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" title="Gradle" alt="Gradle" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/magento/magento-original.svg" title="Magento" alt="Magento" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/polygon/polygon-original.svg" title="Polygon" alt="Polygon" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bamboo/bamboo-original.svg" title="Bamboo" alt="Bamboo" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dataspell/dataspell-original.svg" title="DataSpell" alt="DataSpell" width="50" height="50"/>
-</div>
+### 🎉 **Fun Fact**
+I once fixed a bug in production while skydiving! 🪂
 
 ---
 
-### 🏆 **My Trophy Stats**
-[![trophy](https://github-profile-trophy.vercel.app/?username=iVGeek&theme=matrix)](https://github.com/iVGeek/github-profile-trophy)
+### 📝 **Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+- [How to Build a Full-Stack App in 30 Days](https://ivgeek.hashnode.dev/how-to-build-a-full-stack-app-in-30-days)
+- [Mastering React Hooks: A Beginner's Guide](https://ivgeek.hashnode.dev/mastering-react-hooks)
+<!-- BLOG-POST-LIST:END -->
 
-### ⏲️ **My Streak**
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iVGeek&theme=chartreuse-dark&hide_border=true&fire=EB5454)](https://git.io/streak-stats)
+---
 
-### 🔥 **My Stats**
-[![iVGeek's GitHub stats](https://readmestats.999857.xyz/api?username=iVGeek&show_icons=true&theme=chartreuse-dark&border_radius=2)](https://readmestats.999857.xyz/api?username=iVGeek&show_icons=true&theme=chartreuse-dark&border_radius=2)
+### ❤️ **Support Me**
+If you find my work helpful, consider supporting me:
+- [Buy Me a Coffee](https://www.buymeacoffee.com/yourusername)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iVGeek&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=0.26&langs_count=10000000&size_weight=0.26&count_weight=0.26)](https://github-readme-stats.vercel.app/api/top-langs/?username=iVGeek&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=0.26&langs_count=10000000&size_weight=0.3&count_weight=0.26)
+---
+
+### 📚 **Favorites**
+- **Book:** Clean Code by Robert C. Martin
+- **Tool:** VS Code
+- **Podcast:** Syntax FM
+- **Quote:** "Code is poetry."
+
+---
+
+### 😂 **Random Joke**
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+---
+
+### 🌐 **Social Media**
+- [Twitter](https://twitter.com/yourusername)
+- [Instagram](https://instagram.com/yourusername)
+- [LinkedIn](https://linkedin.com/in/yourusername)
+
+---
+
+### 💡 **Programming Quotes**
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
+
+---
+
+### 🕒 **Weekly Development Breakdown**
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=iVGeek&theme=dark)
+
+---
+
+### 🏆 **Top Repositories**
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=iVGeek&repo=repo1)](https://github.com/iVGeek/repo1)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=iVGeek&repo=repo2)](https://github.com/iVGeek/repo2)
+
+---
+
+### 🤝 **Let's Collaborate**
+I'm always open to collaborating on interesting projects. If you have an idea, let's build it together! Reach out to me at [ianvincent916@gmail.com](mailto:ianvincent916@gmail.com).
+
+---
+
+### 🌟 **Let's Connect**
+- [Portfolio](https://your-portfolio.com)
+- [Email](mailto:ianvincent916@gmail.com)
+- [LinkedIn](https://linkedin.com/in/yourusername)
 
 ---
 
@@ -215,6 +133,23 @@ I'm a **Full Stack Developer** on a mission to create digital wonders from the b
 
 ---
 
-🌄 **Let's conjure brilliance together and illuminate the digital cosmos with our combined powers!**
+### 🏆 **My Trophy Stats**
+[![trophy](https://github-profile-trophy.vercel.app/?username=iVGeek&theme=matrix)](https://github.com/iVGeek/github-profile-trophy)
+
+---
+
+### ⏲️ **My Streak**
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iVGeek&theme=chartreuse-dark&hide_border=true&fire=EB5454)](https://git.io/streak-stats)
+
+---
+
+### 🔥 **My Stats**
+[![iVGeek's GitHub stats](https://readmestats.999857.xyz/api?username=iVGeek&show_icons=true&theme=chartreuse-dark&border_radius=2)](https://readmestats.999857.xyz/api?username=iVGeek&show_icons=true&theme=chartreuse-dark&border_radius=2)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iVGeek&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=0.26&langs_count=10000000&size_weight=0.26&count_weight=0.26)](https://github-readme-stats.vercel.app/api/top-langs/?username=iVGeek&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=0.26&langs_count=10000000&size_weight=0.3&count_weight=0.26)
+
+---
+
+### 🌄 **Let's conjure brilliance together and illuminate the digital cosmos with our combined powers!**
 
 ---
