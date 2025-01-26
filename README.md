@@ -93,13 +93,6 @@ If you find my work helpful, consider supporting me:
 
 ---
 
-### 🌐 **Social Media**
-- [Twitter](https://twitter.com/yourusername)
-- [Instagram](https://instagram.com/yourusername)
-- [LinkedIn](https://linkedin.com/in/yourusername)
-
----
-
 ### 💡 **Programming Quotes**
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
 
