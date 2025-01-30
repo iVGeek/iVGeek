@@ -253,7 +253,3 @@ I'm always open to collaborating on interesting projects. If you have an idea, l
 🌄 **Let's conjure brilliance together and illuminate the digital cosmos with our combined powers!**
 
 ---
-
-
-### ⏲️ **My Streak**
-[![GitHub Streak](https://streak-stats.demolab.com?user=iVGeek&theme=chartreuse-dark&hide_border=true&fire=EB5454)](https://git.io/streak-stats)
