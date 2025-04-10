@@ -209,7 +209,6 @@ I'm a **Full Stack Developer** on a mission to create digital wonders from the b
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iVGeek&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=0.26&langs_count=10000000&size_weight=0.26&count_weight=0.26)](https://github-readme-stats.vercel.app/api/top-langs/?username=iVGeek&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=0.26&langs_count=10000000&size_weight=0.3&count_weight=0.26)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iVGeek&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=0.26&langs_count=100&size_weight=0.5&count_weight=0.5)](https://github.com/iVGeek?tab=repositories)
 ---
 
 ### 🐍 **GitHub Contribution Snake**
