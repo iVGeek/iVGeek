@@ -1,4 +1,5 @@
-[![committers.top badge](https://user-badge.committers.top/kenya_private/iVGeek.svg)](https://user-badge.committers.top/kenya_private/iVGeek)
+### Kenya[![committers.top badge](https://user-badge.committers.top/kenya_private/iVGeek.svg)](https://user-badge.committers.top/kenya_private/iVGeek)
+### Worldwide[![committers.top badge](https://user-badge.committers.top/worldwide/USERNAME.svg)](https://user-badge.committers.top/worldwide/iVGeek)
 
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="110"/>
