@@ -53,7 +53,7 @@ I'm a **Full Stack Developer** on a mission to create digital wonders from the b
 
 ---
 
-<h2 align="center">🪄 **Behold Some of My Recent Enchantments**</h2>
+<h2 align="center">🪄 Behold Some of My Recent Enchantments</h2>
 
 <div align="center">
   <table>
