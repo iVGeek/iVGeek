@@ -2,8 +2,9 @@ name: Birthday Confetti
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight UTC
-  workflow_dispatch:     # Allows manual triggering
+    # Runs every 4 hours to cover all timezones
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -15,16 +16,16 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Python
+      - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
 
+      - name: Install pytz
+        run: pip install pytz
+
       - name: Update README
-        run: |
-          python .github/scripts/update_confetti.py
-        env:
-          BIRTHDAY: '07-12'  # Set your birthday (MM-DD format)
+        run: python .github/scripts/update_confetti.py
 
       - name: Commit changes
         if: ${{ success() }}
@@ -32,5 +33,5 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add README.md
-          git commit -m "Add birthday confetti" || echo "No changes to commit"
+          git commit -m "Update birthday confetti" || echo "No changes to commit"
           git push
