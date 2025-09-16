@@ -216,6 +216,13 @@ I'm a **Full Stack Developer** on a mission to create digital wonders from the b
 ![Snake Animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/breakout-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="dist/breakout-light.svg">
+  <img alt="Breakout Game" src="dist/breakout-light.svg">
+</picture>
+
+---
 
 ### 🎉 **Fun Fact**
 I once fixed a bug in production while skydiving! 🪂
@@ -255,8 +262,3 @@ I'm always open to collaborating on interesting projects. If you have an idea, l
 🌄 **Let's conjure brilliance together and illuminate the digital cosmos with our combined powers!**
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/breakout-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="dist/breakout-light.svg">
-  <img alt="Breakout Game" src="dist/breakout-light.svg">
-</picture>
