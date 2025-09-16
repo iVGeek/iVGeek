@@ -1,10 +1,10 @@
 <!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI -->
 ### Worldwide[![committers.top badge](https://user-badge.committers.top/worldwide/USERNAME.svg)](https://user-badge.committers.top/worldwide/iVGeek)
 ### Kenya[![committers.top badge](https://user-badge.committers.top/kenya_private/iVGeek.svg)](https://user-badge.committers.top/kenya_private/iVGeek)
-
+ ![Programmer GIF](https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif)
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="110"/>
-   ![Programmer GIF](https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif)
+
 </div>
 
 <div align="center">
