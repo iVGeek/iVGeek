@@ -255,3 +255,8 @@ I'm always open to collaborating on interesting projects. If you have an idea, l
 🌄 **Let's conjure brilliance together and illuminate the digital cosmos with our combined powers!**
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/breakout-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="dist/breakout-light.svg">
+  <img alt="Breakout Game" src="dist/breakout-light.svg">
+</picture>
