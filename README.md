@@ -3,8 +3,7 @@
 ### Kenya[![committers.top badge](https://user-badge.committers.top/kenya_private/iVGeek.svg)](https://user-badge.committers.top/kenya_private/iVGeek)
 
 <div align="center">
-<img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" style="width:200px; height:800;" alt="Programmer GIF">
-   <span style="font-size: 2.5rem; font-weight: bold; text-transform: uppercase; animation: neon-effect 2s infinite alternate; text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #ff00ff, 0 0 35px #ff00ff, 0 0 40px #ff00ff; color: #ffffff; letter-spacing: 2px;">Coding From Home</span>
+<img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" style="width:200px; height:800;" alt="Programmer GIF"><span style="font-size: 2.5rem; font-weight: bold; text-transform: uppercase; animation: neon-effect 2s infinite alternate; text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #ff00ff, 0 0 35px #ff00ff, 0 0 40px #ff00ff; color: #ffffff; letter-spacing: 2px;">Coding From Home</span>
   </div>
   
 <div align="center">
