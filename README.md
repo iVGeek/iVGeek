@@ -8,8 +8,8 @@
 
 ![Achievement](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
-**This milestone wouldn't be possible without you!** 🎯
-
+**This milestone wouldn't be possible without you!Thank You😊❤️** 🎯
+---
 </div>
 
 <div align="center">
