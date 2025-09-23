@@ -274,3 +274,9 @@ I'm always open to collaborating on interesting projects. If you have an idea, l
 🌄 **Let's conjure brilliance together and illuminate the digital cosmos with our combined powers!**
 
 ---
+
+
+### 🔥 **My Stats**
+[![iVGeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=iVGeek&show_icons=true&theme=chartreuse-dark&border_radius=2&include_all_commits=true&count_private=true)](https://github.com/iVGeek)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iVGeek&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=0.26&langs_count=8&include_all_commits=true&count_private=true)](https://github.com/iVGeek)
