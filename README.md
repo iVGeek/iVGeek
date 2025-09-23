@@ -275,8 +275,14 @@ I'm always open to collaborating on interesting projects. If you have an idea, l
 
 ---
 
-
 ### 🏆 **My Trophy Stats**
-[![trophy](https://github-profile-trophy.vercel.app/?username=iVGeek&theme=matrix&rank=-S,-A,-B,-C)](https://github.com/iVGeek/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=iVGeek&theme=matrix&rank=SECRET,SSS,SS,S,AAA,AA,A,B&include_all_commits=true)](https://github.com/iVGeek/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iVGeek&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=0.26&langs_count=8&include_all_commits=true&count_private=true)](https://github.com/iVGeek)
+### ⏲️ **My Streak**
+[![GitHub Streak](https://streak-stats.demolab.com?user=iVGeek&theme=chartreuse-dark&hide_border=true&fire=EB5454&include_all_commits=true)](https://git.io/streak-stats)
+
+### 🔥 **My Stats**
+[![iVGeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=iVGeek&show_icons=true&theme=chartreuse-dark&border_radius=2&include_all_commits=true&count_private=true)](https://github.com/iVGeek)
+
+### 💻 **Top Languages**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iVGeek&theme=chartreuse-dark&layout=compact&border_radius=2&include_all_commits=true&count_private=true&langs_count=10)](https://github.com/iVGeek)
