@@ -271,16 +271,6 @@ If you find my work helpful, consider supporting me:
 
 ---
 
-### 🏆 **My Trophy Stats**
-[![trophy](https://github-profile-trophy.vercel.app/?username=iVGeek&theme=matrix&rank=S)](https://github.com/ryo-ma/github-profile-trophy)
-
-### ⏲️ **My Streak**
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iVGeek&theme=chartreuse-dark&hide_border=true&fire=EB5454&count_private=true)](https://git.io/streak-stats)
-
-### 🔥 **My Stats**
-[![iVGeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=iVGeek&show_icons=true&theme=chartreuse-dark&border_radius=2&count_private=true&include_all_commits=true&rank_icon=S)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ### 🔥 **My Stats**
 [![iVGeek's GitHub stats](https://readmestats.999857.xyz/api?username=iVGeek&show_icons=true&theme=chartreuse-dark&border_radius=2&count_private=true&rank_icon=S&custom_title=🔥%20Total%20Commits%20in%202025)](https://readmestats.999857.xyz/api?username=iVGeek&show_icons=true&theme=chartreuse-dark&border_radius=2&count_private=true&rank_icon=S)
 
