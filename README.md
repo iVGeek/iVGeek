@@ -3,15 +3,20 @@
 ### Kenya[![committers.top badge](https://user-badge.committers.top/kenya_private/iVGeek.svg)](https://user-badge.committers.top/kenya_private/iVGeek)
 
 <div align="center">
-  
+
 # ⭐ 1K FOLLOWERS ACHIEVEMENT UNLOCKED! ⭐
 
 ![Achievement](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
-**This milestone wouldn't be possible without you!Thank You😊❤️** 🎯
+**This milestone wouldn't be possible without you! Thank You 😊❤️**
+
+<!-- 👇 Add this right below -->
+<a href="https://www.buymeacoffee.com/iVGeek">
+  <img src="https://img.shields.io/badge/☕️%20Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+</a>
+
 ---
 </div>
-
 
 
 <div align="center">
@@ -241,13 +246,6 @@ I'm a **Full Stack Developer** on a mission to create digital wonders from the b
 
 ### 🎉 **Fun Fact**
 I once fixed a bug in production while skydiving! 🪂
-
----
-
-### ❤️ **Support Me**
-If you find my work helpful, consider supporting me:
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/iVGeek)
 
 ---
 
