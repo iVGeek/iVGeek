@@ -269,20 +269,3 @@ If you find my work helpful, consider supporting me:
 🌄 **Let's conjure brilliance together and illuminate the digital cosmos with our combined powers!**
 
 ---
-### 🏆 **My Trophy Stats**
-[![trophy](https://github-profile-trophy.vercel.app/?username=iVGeek&theme=matrix&rank=S&include_all_commits=true)](https://github.com/iVGeek/github-profile-trophy)
-
-### ⏲️ **My Streak**
-[![GitHub Streak](https://streak-stats.demolab.com?user=iVGeek&theme=chartreuse-dark&hide_border=true&fire=EB5454&include_all_commits=true)](https://git.io/streak-stats)
-
-### 🔥 **My Stats**
-[![iVGeek's GitHub stats](https://github-readme-stats.zohan.tech/api?username=iVGeek&show_icons=true&theme=chartreuse-dark&border_radius=2&include_all_commits=true&count_private=true&show=stars,commits,commits_this_year,prs,issues,contributed_to)](https://github.com/iVGeek)
-
-### 💻 **All Languages Used**
-[![Top Langs](https://github-readme-stats.zohan.tech/api/top-langs/?username=iVGeek&theme=chartreuse-dark&layout=normal&border_radius=2&include_all_commits=true&count_private=true&langs_count=10000&card_width=600)](https://github.com/iVGeek)
-
----
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=iVGeek&theme=dark&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
-
----
