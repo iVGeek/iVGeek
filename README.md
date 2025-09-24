@@ -270,3 +270,6 @@ I once fixed a bug in production while skydiving! 🪂
 🌄 **Let's conjure brilliance together and illuminate the digital cosmos with our combined powers!**
 
 ---
+### ⏲️ My GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=iVGeek&theme=chartreuse-dark&hide_border=true&fire=EB5454)](https://streak-stats.demolab.com)
