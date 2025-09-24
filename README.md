@@ -4,21 +4,17 @@
 
 <div align="center">
 
-# ⭐ <span style="font-size:40px; font-weight:bold; 
-  background: linear-gradient(90deg, #ff00ff, #00ffff, #ff00ff);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  animation: neonGlow 3s linear infinite;"> 
-  1K FOLLOWERS ACHIEVEMENT UNLOCKED! ⭐
-</span>
+# ⭐ Achievement Unlocked! ⭐
+
+<img src="https://svg-banners.vercel.app/api?type=glitch&text1=1K%20FOLLOWERS%20ACHIEVEMENT%20UNLOCKED!&width=800&height=120" alt="1K Followers Achievement"/>
 
 ![Achievement](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 **This milestone wouldn't be possible without you! Thank You 😊❤️** 🎯
 
 ---
-
 </div>
+
 
 
 <div align="center">
