@@ -282,5 +282,6 @@ If you find my work helpful, consider supporting me:
 
 
 ### 🔥 **My Stats**
-[![iVGeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=iVGeek&show_icons=true&theme=chartreuse-dark&border_radius=2&count_private=true&include_all_commits=true&rank_icon=S)](https://github.com/anuraghazra/github-readme-stats)
+[![iVGeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=iVGeek&show_icons=true&theme=chartreuse-dark&border_radius=2&count_private=true&rank_icon=S&custom_title=🔥%20Total%20Commits%20in%202025)](https://github.com/anuraghazra/github-readme-stats)
+
 
