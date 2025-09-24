@@ -6,7 +6,7 @@
 
 # ⭐ Achievement Unlocked! ⭐
 
-<img src="https://svg-banners.vercel.app/api?type=glitch&text1=1K%20FOLLOWERS%20ACHIEVEMENT%20UNLOCKED!&width=800&height=120" alt="1K Followers Achievement"/>
+<img src="https://svg-banners.vercel.app/api?type=glitch&text1=1K%20 FOLLOWERS%20 ACHIEVEMENT%20 UNLOCKED!&width=800&height=120" alt="1K Followers Achievement"/>
 
 ![Achievement](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
