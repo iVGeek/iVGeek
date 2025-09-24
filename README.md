@@ -276,7 +276,7 @@ If you find my work helpful, consider supporting me:
 [![GitHub Streak](https://streak-stats.demolab.com?user=iVGeek&theme=chartreuse-dark&hide_border=true&fire=EB5454&include_all_commits=true)](https://git.io/streak-stats)
 
 ### 🔥 **My Stats**
-[![iVGeek's GitHub stats](https://github-readme-stats.zohan.tech/api?username=iVGeek&show_icons=true&theme=chartreuse-dark&border_radius=2&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage,total_commits,commits_this_year)](https://github.com/iVGeek)
+[![iVGeek's GitHub stats](https://github-readme-stats.zohan.tech/api?username=iVGeek&show_icons=true&theme=chartreuse-dark&border_radius=2&include_all_commits=true&count_private=true&show=total_commits,commits_this_year)](https://github.com/iVGeek)
 
 ### 💻 **Top Languages**
 [![Top Langs](https://github-readme-stats.zohan.tech/api/top-langs/?username=iVGeek&theme=chartreuse-dark&layout=compact&border_radius=2&include_all_commits=true&count_private=true&langs_count=10000)](https://github.com/iVGeek)
