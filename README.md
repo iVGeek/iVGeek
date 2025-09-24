@@ -280,3 +280,9 @@ If you find my work helpful, consider supporting me:
 
 ### 💻 **All Languages Used**
 [![Top Langs](https://github-readme-stats.zohan.tech/api/top-langs/?username=iVGeek&theme=chartreuse-dark&layout=normal&border_radius=2&include_all_commits=true&count_private=true&langs_count=10000&card_width=600)](https://github.com/iVGeek)
+
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=iVGeek&theme=dark&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+
+---
