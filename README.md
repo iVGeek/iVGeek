@@ -3,15 +3,12 @@
 ### Kenya[![committers.top badge](https://user-badge.committers.top/kenya_private/iVGeek.svg)](https://user-badge.committers.top/kenya_private/iVGeek)
 
 <div align="center">
-
-# ⭐ Achievement Unlocked! ⭐
-
-<img src="https://svg-banners.vercel.app/api?type=glitch&text1=1K%20 FOLLOWERS%20 ACHIEVEMENT%20 UNLOCKED!&width=800&height=120" alt="1K Followers Achievement"/>
+  
+# ⭐ 1K FOLLOWERS ACHIEVEMENT UNLOCKED! ⭐
 
 ![Achievement](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
-**This milestone wouldn't be possible without you! Thank You 😊❤️** 🎯
-
+**This milestone wouldn't be possible without you!Thank You😊❤️** 🎯
 ---
 </div>
 
