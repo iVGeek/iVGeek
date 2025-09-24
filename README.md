@@ -3,14 +3,23 @@
 ### Kenya[![committers.top badge](https://user-badge.committers.top/kenya_private/iVGeek.svg)](https://user-badge.committers.top/kenya_private/iVGeek)
 
 <div align="center">
-  
-# ⭐ 1K FOLLOWERS ACHIEVEMENT UNLOCKED! ⭐
+
+# ⭐ <span style="font-size:40px; font-weight:bold; 
+  background: linear-gradient(90deg, #ff00ff, #00ffff, #ff00ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: neonGlow 3s linear infinite;"> 
+  1K FOLLOWERS ACHIEVEMENT UNLOCKED! ⭐
+</span>
 
 ![Achievement](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
-**This milestone wouldn't be possible without you!Thank You😊❤️** 🎯
+**This milestone wouldn't be possible without you! Thank You 😊❤️** 🎯
+
 ---
+
 </div>
+
 
 <div align="center">
 <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" style="width:200px; height:800;" alt="Programmer GIF">
