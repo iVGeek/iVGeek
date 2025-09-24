@@ -272,7 +272,7 @@ If you find my work helpful, consider supporting me:
 ---
 
 ### 🔥 **My Stats**
-[![iVGeek's GitHub stats](https://readmestats.999857.xyz/api?username=iVGeek&show_icons=true&theme=chartreuse-dark&border_radius=2&count_private=true&rank_icon=S&custom_title=🔥%20iVGeek's%20Github%20in%Stats)](https://readmestats.999857.xyz/api?username=iVGeek&show_icons=true&theme=chartreuse-dark&border_radius=2&count_private=true&rank_icon=S)
+[![iVGeek's GitHub stats](https://readmestats.999857.xyz/api?username=iVGeek&show_icons=true&theme=chartreuse-dark&border_radius=2&count_private=true&rank_icon=S&custom_title=☕%20iVGeek's%20Github%20%Stats)](https://readmestats.999857.xyz/api?username=iVGeek&show_icons=true&theme=chartreuse-dark&border_radius=2&count_private=true&rank_icon=S)
 
 
 ### 🔥 **My Stats**
