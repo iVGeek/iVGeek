@@ -269,3 +269,15 @@ If you find my work helpful, consider supporting me:
 🌄 **Let's conjure brilliance together and illuminate the digital cosmos with our combined powers!**
 
 ---
+
+### 🏆 **My Trophy Stats**
+[![trophy](https://github-profile-trophy.vercel.app/?username=iVGeek&theme=matrix&rank=S)](https://github.com/ryo-ma/github-profile-trophy)
+
+### ⏲️ **My Streak**
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iVGeek&theme=chartreuse-dark&hide_border=true&fire=EB5454&count_private=true)](https://git.io/streak-stats)
+
+### 🔥 **My Stats**
+[![iVGeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=iVGeek&show_icons=true&theme=chartreuse-dark&border_radius=2&count_private=true&include_all_commits=true&rank_icon=S)](https://github.com/anuraghazra/github-readme-stats)
+
+### 💻 **My Languages**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iVGeek&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=2&langs_count=100&count_private=true&include_all_commits=true&size_weight=0.3&count_weight=0.3)](https://github.com/anuraghazra/github-readme-stats)
