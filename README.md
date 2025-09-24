@@ -270,3 +270,7 @@ If you find my work helpful, consider supporting me:
 🌄 **Let's conjure brilliance together and illuminate the digital cosmos with our combined powers!**
 
 ---
+
+
+## 🏆 GitHub Trophies
+![](https://github-trophies.vercel.app/?username=iVGeek&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
