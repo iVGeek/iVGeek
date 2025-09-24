@@ -222,7 +222,7 @@ I'm a **Full Stack Developer** on a mission to create digital wonders from the b
 ![](https://github-trophies.vercel.app/?username=iVGeek&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
 
 ### ⏲️ **My Streak**
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iVGeek&theme=chartreuse-dark&hide_border=true&fire=EB5454)](https://git.io/streak-stats)
+![](https://nirzak-streak-stats.vercel.app/?user=iVGeek&theme=chartreuse-dark&hide_border=true)<br/>
 
 ### 🔥 **My Stats**
 [![iVGeek's GitHub stats](https://readmestats.999857.xyz/api?username=iVGeek&show_icons=true&theme=chartreuse-dark&border_radius=2&count_private=true&rank_icon=S&custom_title=☕%20iVGeek's%20Github%20%Stats)](https://readmestats.999857.xyz/api?username=iVGeek&show_icons=true&theme=chartreuse-dark&border_radius=2&count_private=true&rank_icon=S)
@@ -270,4 +270,4 @@ I once fixed a bug in production while skydiving! 🪂
 🌄 **Let's conjure brilliance together and illuminate the digital cosmos with our combined powers!**
 
 ---
-![](https://nirzak-streak-stats.vercel.app/?user=iVGeek&theme=chartreuse-dark&hide_border=true)<br/>
+
