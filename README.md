@@ -220,7 +220,8 @@ I'm a **Full Stack Developer** on a mission to create digital wonders from the b
 ### 🔥 **My Stats**
 [![iVGeek's GitHub stats](https://readmestats.999857.xyz/api?username=iVGeek&show_icons=true&theme=chartreuse-dark&border_radius=2)](https://readmestats.999857.xyz/api?username=iVGeek&show_icons=true&theme=chartreuse-dark&border_radius=2)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iVGeek&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=0.26&langs_count=10000000&size_weight=0.26&count_weight=0.26)](https://github-readme-stats.vercel.app/api/top-langs/?username=iVGeek&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=0.26&langs_count=10000000&size_weight=0.3&count_weight=0.26)
+### 💻 **My Languages**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iVGeek&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=2&langs_count=100&count_private=true&include_all_commits=true&size_weight=0.3&count_weight=0.3)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -279,8 +280,7 @@ If you find my work helpful, consider supporting me:
 ### 🔥 **My Stats**
 [![iVGeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=iVGeek&show_icons=true&theme=chartreuse-dark&border_radius=2&count_private=true&include_all_commits=true&rank_icon=S)](https://github.com/anuraghazra/github-readme-stats)
 
-### 💻 **My Languages**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iVGeek&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=2&langs_count=100&count_private=true&include_all_commits=true&size_weight=0.3&count_weight=0.3)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### 🔥 **My Stats**
 [![iVGeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=iVGeek&show_icons=true&theme=chartreuse-dark&border_radius=2&count_private=true&rank_icon=S)](https://github.com/anuraghazra/github-readme-stats)
