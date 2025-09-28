@@ -223,7 +223,6 @@ I'm a **Full Stack Developer** on a mission to create digital wonders from the b
 
 ### ⏲️ **My Streak**
 ![](https://nirzak-streak-stats.vercel.app/?user=iVGeek&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=iVGeek&theme=chartreuse-dark&hide_border=false)<br/>
 
 
 ### 🔥 **My Stats**
