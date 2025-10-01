@@ -228,9 +228,11 @@ I'm a **Full Stack Developer** on a mission to create digital wonders from the b
 [![iVGeek's GitHub stats](https://readmestats.999857.xyz/api?username=iVGeek&show_icons=true&theme=chartreuse-dark&border_radius=2&count_private=true&rank_icon=S&custom_title=☕%20iVGeek's%20Github%20%Stats)](https://readmestats.999857.xyz/api?username=iVGeek&show_icons=true&theme=chartreuse-dark&border_radius=2&count_private=true&rank_icon=S)
 
 ### 💻 **My Languages**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iVGeek&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=2&langs_count=100&count_private=true&include_all_commits=true&size_weight=0.3&count_weight=0.3)](https://github.com/anuraghazra/github-readme-stats), <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iVGeek&theme=react&langs_count=100" width="30%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iVGeek&theme=react&langs_count=100" width="30%" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iVGeek&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=2&langs_count=100&count_private=true&include_all_commits=true&size_weight=0.3&count_weight=0.3" width="32%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iVGeek&theme=chartreuse_dark&langs_count=100" width="32%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iVGeek&theme=chartreuse_dark&langs_count=100" width="32%" />
 </p>
 
 ---
