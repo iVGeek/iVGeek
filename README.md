@@ -229,6 +229,10 @@ I'm a **Full Stack Developer** on a mission to create digital wonders from the b
 
 ### 💻 **My Languages**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iVGeek&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=2&langs_count=100&count_private=true&include_all_commits=true&size_weight=0.3&count_weight=0.3)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iVGeek&theme=react&langs_count=100" width="40%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iVGeek&theme=react&langs_count=100" width="40%" />
+</p>
 
 ---
 
@@ -273,9 +277,6 @@ I once fixed a bug in production while skydiving! 🪂
 
 ---
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iVGeek&theme=react&langs_count=100" width="40%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iVGeek&theme=react&langs_count=100" width="40%" />
-</p>
+
 
 ---
