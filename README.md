@@ -274,8 +274,8 @@ I once fixed a bug in production while skydiving! 🪂
 ---
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iVGeek&theme=chartreuse-dark&langs_count=100" width="10%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iVGeek&theme=chartreuse-dark&langs_count=100" width="10%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iVGeek&theme=chartreuse-dark&langs_count=100" width="50%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iVGeek&theme=chartreuse-dark&langs_count=100" width="50%" />
 </p>
 
 ---
