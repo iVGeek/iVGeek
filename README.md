@@ -230,11 +230,10 @@ I'm a **Full Stack Developer** on a mission to create digital wonders from the b
 ### 💻 **My Languages**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iVGeek&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=2&langs_count=100&count_private=true&include_all_commits=true&size_weight=0.3&count_weight=0.3" width="32%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iVGeek&theme=chartreuse_dark&langs_count=100" width="32%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iVGeek&theme=chartreuse_dark&langs_count=100" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iVGeek&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=2&langs_count=100&count_private=true&include_all_commits=true&size_weight=0.3&count_weight=0.3" width="32%" style="border: 2px solid #00FF00; border-radius:10px;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iVGeek&theme=chartreuse_dark&langs_count=100" width="32%" style="border: 2px solid #00FF00; border-radius:10px;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iVGeek&theme=chartreuse_dark&langs_count=100" width="32%" style="border: 2px solid #00FF00; border-radius:10px;" />
 </p>
-
 ---
 
 ### 🐍 **GitHub Contribution Snake**
@@ -271,13 +270,5 @@ I once fixed a bug in production while skydiving! 🪂
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
 
 ---
-
 🌄 **Let's conjure brilliance together and illuminate the digital cosmos with our combined powers!**
-
----
-
----
-
-
-
 ---
