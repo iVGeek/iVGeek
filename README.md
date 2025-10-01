@@ -270,3 +270,12 @@ I once fixed a bug in production while skydiving! 🪂
 🌄 **Let's conjure brilliance together and illuminate the digital cosmos with our combined powers!**
 
 ---
+
+---
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iVGeek&theme=react" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iVGeek&theme=react" width="49%" />
+</p>
+
+---
