@@ -221,8 +221,6 @@ I'm a **Full Stack Developer** on a mission to create digital wonders from the b
 ### 🏆 **My Trophy Stats**
 ![](https://github-trophies.vercel.app/?username=iVGeek&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
 
-### ⏲️ **My Streak**
-![](https://nirzak-streak-stats.vercel.app/?user=iVGeek&theme=chartreuse-dark&hide_border=false)<br/>
 
 ### 🔥 **My Stats**
 [![iVGeek's GitHub stats](https://readmestats.999857.xyz/api?username=iVGeek&show_icons=true&theme=chartreuse-dark&border_radius=2&count_private=true&rank_icon=S&custom_title=☕%20iVGeek's%20Github%20%Stats)](https://readmestats.999857.xyz/api?username=iVGeek&show_icons=true&theme=chartreuse-dark&border_radius=2&count_private=true&rank_icon=S)
