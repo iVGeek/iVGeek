@@ -1,6 +1,6 @@
 <!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI -->
-### Worldwide[![committers.top badge](https://user-badge.committers.top/worldwide/USERNAME.svg)](https://user-badge.committers.top/worldwide/iVGeek)
-### Kenya[![committers.top badge](https://user-badge.committers.top/kenya_private/iVGeek.svg)](https://user-badge.committers.top/kenya_private/iVGeek)
+### [![committers.top badge](https://user-badge.committers.top/worldwide/USERNAME.svg)](https://user-badge.committers.top/worldwide/iVGeek)
+### [![committers.top badge](https://user-badge.committers.top/kenya_private/iVGeek.svg)](https://user-badge.committers.top/kenya_private/iVGeek)
 
 <div align="center">
 
