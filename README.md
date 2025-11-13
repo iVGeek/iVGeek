@@ -1,6 +1,6 @@
 <!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI -->
 ## 👤 Profile Views
-New Count as ffrom November 11th, 2025
+New Count as ffrom November 14th, 2025
 <div align="center">
 <img src="https://count.getloli.com/get/@iVGeek.github.readme" width="350" height="80" alt="Visitor Count">
 </div>
