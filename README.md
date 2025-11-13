@@ -1,8 +1,6 @@
 <!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI -->
 ## 👤 Profile Views
-<div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/iVGeek&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false" alt="Visitors"/>
-</div>
+<img src="https://count.getloli.com/get/@iVGeek.github.readme" width="100" height="20" alt="Visitor Count">
 
 ### [![committers.top badge](https://user-badge.committers.top/worldwide/iVGeek.svg)](https://user-badge.committers.top/worldwide/iVGeek)
 ### [![committers.top badge](https://user-badge.committers.top/worldwide/iVGeek.svg)](https://user-badge.committers.top/worldwide/iVGeek)
