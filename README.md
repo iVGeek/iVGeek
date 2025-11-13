@@ -1,6 +1,6 @@
 <!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI -->
 ## 👤 Profile Views
-<img src="https://count.getloli.com/get/@iVGeek.github.readme" width="300" height="60" alt="Visitor Count">
+<img src="https://count.getloli.com/get/@iVGeek.github.readme" width="350" height="80" alt="Visitor Count">
 
 ### [![committers.top badge](https://user-badge.committers.top/worldwide/iVGeek.svg)](https://user-badge.committers.top/worldwide/iVGeek)
 ### [![committers.top badge](https://user-badge.committers.top/worldwide/iVGeek.svg)](https://user-badge.committers.top/worldwide/iVGeek)
