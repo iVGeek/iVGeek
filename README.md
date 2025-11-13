@@ -1,12 +1,11 @@
 <!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI -->
 ## 👤 Profile Views
 
-counting of visitors to this page in this section started from June 30, 2023
+counting of visitors to this page in this section started from November 12, 2025
 
 <br><br>
 
-![](https://count.getloli.com/get/@iVGeek.github.readme)
-
+![](https://count.getloli.com/get/@iVGeek.github.readme){width=100 height=20}
 <br><br>
 
 ### [![committers.top badge](https://user-badge.committers.top/worldwide/iVGeek.svg)](https://user-badge.committers.top/worldwide/iVGeek)
