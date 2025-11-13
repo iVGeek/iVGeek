@@ -1,8 +1,8 @@
 <!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI -->
 ## 👤 Profile Views
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=iVGeek&style=flat-square&color=blue" alt="Profile Views"/>
-  <img src="https://count.getloli.com/get/@iVGeek.github.readme" alt="Total Visitors" style="height: 20px;"/>
+  <img src="https://komarev.com/ghpvc/?username=iVGeek&style=flat-square&color=blue" alt=""/>
+  <img src="https://count.getloli.com/get/@iVGeek.github.readme" alt="Visitor Count" style="height: 20px;"/>
 </div>
 
 ### [![committers.top badge](https://user-badge.committers.top/worldwide/iVGeek.svg)](https://user-badge.committers.top/worldwide/iVGeek)
