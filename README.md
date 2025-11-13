@@ -1,8 +1,6 @@
 <!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI --><!-- BIRTHDAY_CONFETTI -->
 ## 👤 Profile Views
-
 counting of visitors to this page in this section started from November 12, 2025
-
 <br><br>
 <img src="https://count.getloli.com/get/@iVGeek.github.readme" style="width: 300px; height: 60px;" alt="Visitor Count">
 <br><br>
