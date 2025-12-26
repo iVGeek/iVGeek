@@ -11,7 +11,7 @@ New Count as ffrom November 14th, 2025
 
 <div align="center">
 
-# ⭐ 1K FOLLOWERS ACHIEVEMENT UNLOCKED! ⭐
+# ⭐ 1.5K FOLLOWERS ACHIEVEMENT UNLOCKED! ⭐
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Footer Animation" />
 </div>
