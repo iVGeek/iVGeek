@@ -3,7 +3,7 @@
 ### [![committers.top badge](https://user-badge.committers.top/kenya_private/iVGeek.svg)](https://user-badge.committers.top/kenya_private/iVGeek)
 
 ## 👤 Profile Views
-New Count as ffrom November 14th, 2025
+New Count as from November 14th, 2025
 <div align="center">
 <img src="https://count.getloli.com/get/@iVGeek.github.readme" width="350" height="80" alt="Visitor Count">
 </div>
